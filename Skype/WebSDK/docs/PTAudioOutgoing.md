@@ -3,6 +3,9 @@
 
  _**Applies to:** Skype for Business 2015_
 
+> [!IMPORTANT]
+> Meetings with one remote participant (P2P/1:1) are not supported in **Google Chrome** at this point.
+
 ## Starting a Call
 
 In order to make an audio call we need to:
